@@ -4,7 +4,7 @@
   <groupId>com.jcg.maven</groupId>
   <artifactId>MavenHelloWorldProject</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>mvnproj</version>
   <name>MavenHelloWorldProject</name>
   <url>http://maven.apache.org</url>
   <dependencies>
