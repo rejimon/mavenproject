@@ -3,7 +3,7 @@
 <title>Hello SCM Pollll World</title>
 </head>
 <body>
-	<h1>Hello SCM Pollll World</h1>
+	<h1>Hello SCM Git Apr 28 World</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
